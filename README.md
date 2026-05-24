@@ -1,4 +1,4 @@
- CodeAlpha Data Analytics Internship
+
 
  Tasks Completed:
 - Task 1: Web Scraping
@@ -15,4 +15,4 @@
 - 1000 Books scraped from books.toscrape.com
 - Title, Price, Rating, Price Category
 
- Intern: [Muneeba Tariq]
+
